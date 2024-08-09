@@ -1,0 +1,6 @@
+<library path="lib/librm_position_controller">
+
+    <class name="rm_position_controller/JointPositionController"
+           type="rm_position_controller::JointPositionController"
+           base_class_type="controller_interface::ControllerBase"/>
+</library>
